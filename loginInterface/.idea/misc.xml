@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ISHWAR RAI/Documents/Git Projects/Android Apps/login Interface/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ISHWAR RAI/Documents/GitProjects/AndroidApps/loginInterface/app/src/main/res/drawable/rectangle.xml" value="0.3671875" />
+        <entry key="..\:/Users/ISHWAR RAI/Documents/GitProjects/AndroidApps/loginInterface/app/src/main/res/layout/activity_home.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/ISHWAR RAI/Documents/GitProjects/AndroidApps/loginInterface/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

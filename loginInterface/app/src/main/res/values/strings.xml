@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="log_in_with_eatoes_details">Log In with Eatoes Details</string>
+    <string name="password_otp">Password / OTP</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email_id_mobile_no">Email id / Mobile No</string>
+    <string name="don_t_have_an_eatoes_account">Don\'t have an Eatoes account</string>
+    <string name="or_continue_with">Or Continue With</string>
+    <string name="textview">TextView</string>
+    <string name="your_token_is">Your Token is</string>
+    <string name="hello">Hello</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="facebook">Facebook</string>
+    <string name="email">Email</string>
+    <string name="google">Google</string>
+    <string name="instagram">Instagram</string>
+</resources>
